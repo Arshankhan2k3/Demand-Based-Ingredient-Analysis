@@ -1,0 +1,2 @@
+[console_scripts]
+Burger Buddy = app:main

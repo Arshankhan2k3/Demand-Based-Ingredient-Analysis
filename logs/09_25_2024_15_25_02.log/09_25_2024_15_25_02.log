@@ -1,0 +1,26 @@
+[ 2024-09-25 15:26:18,181 ] 35 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 15:26:18,184 ] 58 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'datetime.date'
+[ 2024-09-25 15:26:20,202 ] 35 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 15:26:20,204 ] 58 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'datetime.date'
+[ 2024-09-25 15:26:20,451 ] 35 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 15:26:20,455 ] 58 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'datetime.date'
+[ 2024-09-25 15:26:39,677 ] 35 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 15:26:39,679 ] 58 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'datetime.date'
+[ 2024-09-25 15:26:40,494 ] 35 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 15:26:40,495 ] 58 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'datetime.date'
+[ 2024-09-25 15:26:40,721 ] 35 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 15:26:40,723 ] 58 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'datetime.date'
+[ 2024-09-25 15:27:50,986 ] 35 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 15:27:50,987 ] 58 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'datetime.date'
+[ 2024-09-25 15:33:31,452 ] 36 root - INFO - User selected date range: 2024-07-01 to 2024-07-13 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 15:33:31,456 ] 60 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'Timestamp'
+[ 2024-09-25 15:33:34,039 ] 36 root - INFO - User selected date range: 2024-07-01 to 2024-07-13 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 15:33:34,041 ] 60 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'Timestamp'
+[ 2024-09-25 15:33:51,816 ] 36 root - INFO - User selected date range: 2024-07-01 to 2024-07-24 and food items: ['Aloo Tikki Burger', 'Desi Masala Crunch']
+[ 2024-09-25 15:33:51,818 ] 60 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'Timestamp'
+[ 2024-09-25 15:36:07,884 ] 60 root - ERROR - Error occurred: name 'start_date' is not defined
+[ 2024-09-25 15:37:26,250 ] 70 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'Timestamp'
+[ 2024-09-25 15:37:31,002 ] 70 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'Timestamp'
+[ 2024-09-25 15:39:49,512 ] 70 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'Timestamp'
+[ 2024-09-25 15:40:10,124 ] 71 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'Timestamp'
+[ 2024-09-25 15:40:15,422 ] 71 root - ERROR - Error occurred: '>=' not supported between instances of 'str' and 'Timestamp'
