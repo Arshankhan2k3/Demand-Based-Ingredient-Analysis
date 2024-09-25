@@ -1,0 +1,154 @@
+[ 2024-09-25 17:42:39,440 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:42:39,446 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:42:39,449 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:42:46,187 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:42:46,193 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:42:46,198 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:42:48,541 ] 13 root - INFO - Display function calling
+[ 2024-09-25 17:42:59,977 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:42:59,982 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:42:59,986 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:43:00,216 ] 13 root - INFO - Display function calling
+[ 2024-09-25 17:48:46,038 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:48:46,043 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:48:46,064 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:48:56,549 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:48:56,552 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:48:56,554 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:48:56,605 ] 27 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 17:48:56,910 ] 13 root - INFO - Display function calling
+[ 2024-09-25 17:49:03,528 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:49:03,535 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:49:03,538 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:49:03,599 ] 27 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 17:49:04,037 ] 13 root - INFO - Display function calling
+[ 2024-09-25 17:49:06,760 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:49:06,766 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:49:06,768 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:49:31,043 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:49:31,048 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:49:31,050 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:49:31,119 ] 27 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 17:49:31,424 ] 13 root - INFO - Display function calling
+[ 2024-09-25 17:49:33,563 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:49:33,570 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:49:33,580 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:49:33,622 ] 27 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 17:49:33,831 ] 13 root - INFO - Display function calling
+[ 2024-09-25 17:49:35,313 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:49:35,316 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:49:35,318 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:49:35,368 ] 27 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 17:49:35,685 ] 13 root - INFO - Display function calling
+[ 2024-09-25 17:49:43,397 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:49:43,440 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:49:43,454 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:49:52,778 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:49:52,793 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:49:52,811 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:51:41,619 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:51:41,695 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:51:41,702 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 17:52:49,879 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 17:52:49,900 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 17:52:49,981 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:03:52,055 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:03:52,059 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:03:52,061 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:03:52,098 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:03:54,649 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:03:54,663 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:03:54,670 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:03:54,711 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 18:03:54,907 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:04:00,200 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:00,200 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:00,216 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:00,245 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 18:04:00,392 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:04:02,248 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:02,248 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:02,265 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:02,293 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 18:04:02,460 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:02,574 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:02,581 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:02,611 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 18:04:02,750 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:04:06,011 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:06,026 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:06,064 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:11,798 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:11,798 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:11,809 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:11,843 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:04:15,594 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:15,604 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:15,612 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:15,656 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch', 'Punjabi Paneer', 'Veg King Burger', 'Paneer Supreme Burger', 'Double Crispy Cheese Burger']
+[ 2024-09-25 18:04:15,858 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:04:27,508 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:27,508 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:27,508 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:28,464 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:28,474 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:28,476 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:33,355 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:33,358 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:33,359 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:35,503 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:35,503 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:35,503 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:36,404 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:36,408 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:36,411 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:04:36,431 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Makhani', 'Crispy Veg Burger', 'Veg Chilly Loaded Burger', 'Desi Masala Crunch']
+[ 2024-09-25 18:04:36,553 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:04:45,420 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:04:45,420 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:04:45,420 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:05:15,117 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:05:15,117 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:05:15,130 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:05:18,328 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:05:18,328 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:05:18,328 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:05:19,700 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:05:19,700 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:05:19,700 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:05:19,724 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist', 'Veg Chilly Loaded Burger']
+[ 2024-09-25 18:05:19,839 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:05:22,995 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:05:22,995 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:05:22,995 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:08:25,666 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:08:25,677 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:08:25,684 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:08:25,754 ] 15 root - INFO - Display function calling
+[ 2024-09-25 18:08:27,576 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:08:27,588 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:08:27,614 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:08:27,743 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger', 'Aloo Tikki Twist']
+[ 2024-09-25 18:08:27,995 ] 15 root - INFO - Display function calling
+[ 2024-09-25 18:08:30,628 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:08:30,634 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:08:30,642 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:08:30,714 ] 15 root - INFO - Display function calling
+[ 2024-09-25 18:08:32,698 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:08:32,710 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:08:32,717 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:08:32,776 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-30 and food items: ['Aloo Tikki Burger']
+[ 2024-09-25 18:08:33,200 ] 15 root - INFO - Display function calling
+[ 2024-09-25 18:09:27,133 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:09:27,137 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:09:27,139 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:09:27,171 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:09:30,412 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:09:30,420 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:09:30,423 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:09:30,465 ] 14 root - INFO - Display function calling
+[ 2024-09-25 18:09:32,871 ] 8 root - INFO - Home class initialized
+[ 2024-09-25 18:09:32,873 ] 12 root - INFO - Home class initialized
+[ 2024-09-25 18:09:32,874 ] 20 root - INFO - File upload aur processing function
+[ 2024-09-25 18:09:32,891 ] 28 root - INFO - User selected date range: 2024-07-01 to 2024-07-02 and food items: ['Aloo Tikki Burger', 'Desi Masala Crunch']
+[ 2024-09-25 18:09:33,087 ] 14 root - INFO - Display function calling

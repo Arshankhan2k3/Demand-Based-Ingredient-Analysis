@@ -9,7 +9,8 @@ class Body:
     def __init__(self): 
         # Call the function to visualize the sales insight
         self.data = main_utility()
-        self.visualize_total_consumption(self.data)
+        if self.data is not None:
+            self.visualize_total_consumption(self.data)
         lg.info(f"Display function calling")
         
 

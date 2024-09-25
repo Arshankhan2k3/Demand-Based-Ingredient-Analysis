@@ -1,0 +1,921 @@
+Date,Food Item,Sales,Price,Category
+2024-07-01,Aloo Tikki Burger,69,49,Burger
+2024-07-01,Aloo Tikki Twist,54,69,Burger
+2024-07-01,Veg Makhani,78,79,Burger
+2024-07-01,Crispy Veg Burger,31,99,Burger
+2024-07-01,Veg Chilly Loaded Burger,64,99,Burger
+2024-07-01,Desi Masala Crunch,61,119,Burger
+2024-07-01,Punjabi Paneer,86,109,Burger
+2024-07-01,Veg King Burger,48,99,Burger
+2024-07-01,Paneer Supreme Burger,88,129,Burger
+2024-07-01,Double Crispy Cheese Burger,55,129,Burger
+2024-07-02,Aloo Tikki Burger,24,49,Burger
+2024-07-02,Aloo Tikki Twist,32,69,Burger
+2024-07-02,Veg Makhani,59,79,Burger
+2024-07-02,Crispy Veg Burger,92,99,Burger
+2024-07-02,Veg Chilly Loaded Burger,53,99,Burger
+2024-07-02,Desi Masala Crunch,47,119,Burger
+2024-07-02,Punjabi Paneer,81,109,Burger
+2024-07-02,Veg King Burger,27,99,Burger
+2024-07-02,Paneer Supreme Burger,46,129,Burger
+2024-07-02,Double Crispy Cheese Burger,45,129,Burger
+2024-07-03,Aloo Tikki Burger,46,49,Burger
+2024-07-03,Aloo Tikki Twist,31,69,Burger
+2024-07-03,Veg Makhani,23,79,Burger
+2024-07-03,Crispy Veg Burger,25,99,Burger
+2024-07-03,Veg Chilly Loaded Burger,20,99,Burger
+2024-07-03,Desi Masala Crunch,55,119,Burger
+2024-07-03,Punjabi Paneer,93,109,Burger
+2024-07-03,Veg King Burger,89,99,Burger
+2024-07-03,Paneer Supreme Burger,84,129,Burger
+2024-07-03,Double Crispy Cheese Burger,24,129,Burger
+2024-07-04,Aloo Tikki Burger,61,49,Burger
+2024-07-04,Aloo Tikki Twist,78,69,Burger
+2024-07-04,Veg Makhani,23,79,Burger
+2024-07-04,Crispy Veg Burger,79,99,Burger
+2024-07-04,Veg Chilly Loaded Burger,51,99,Burger
+2024-07-04,Desi Masala Crunch,71,119,Burger
+2024-07-04,Punjabi Paneer,20,109,Burger
+2024-07-04,Veg King Burger,84,99,Burger
+2024-07-04,Paneer Supreme Burger,99,129,Burger
+2024-07-04,Double Crispy Cheese Burger,59,129,Burger
+2024-07-05,Aloo Tikki Burger,92,49,Burger
+2024-07-05,Aloo Tikki Twist,35,69,Burger
+2024-07-05,Veg Makhani,53,79,Burger
+2024-07-05,Crispy Veg Burger,71,99,Burger
+2024-07-05,Veg Chilly Loaded Burger,24,99,Burger
+2024-07-05,Desi Masala Crunch,29,119,Burger
+2024-07-05,Punjabi Paneer,46,109,Burger
+2024-07-05,Veg King Burger,28,99,Burger
+2024-07-05,Paneer Supreme Burger,64,129,Burger
+2024-07-05,Double Crispy Cheese Burger,24,129,Burger
+2024-07-06,Aloo Tikki Burger,92,49,Burger
+2024-07-06,Aloo Tikki Twist,43,69,Burger
+2024-07-06,Veg Makhani,43,79,Burger
+2024-07-06,Crispy Veg Burger,57,99,Burger
+2024-07-06,Veg Chilly Loaded Burger,31,99,Burger
+2024-07-06,Desi Masala Crunch,82,119,Burger
+2024-07-06,Punjabi Paneer,21,109,Burger
+2024-07-06,Veg King Burger,75,99,Burger
+2024-07-06,Paneer Supreme Burger,64,129,Burger
+2024-07-06,Double Crispy Cheese Burger,32,129,Burger
+2024-07-07,Aloo Tikki Burger,54,49,Burger
+2024-07-07,Aloo Tikki Twist,51,69,Burger
+2024-07-07,Veg Makhani,59,79,Burger
+2024-07-07,Crispy Veg Burger,84,99,Burger
+2024-07-07,Veg Chilly Loaded Burger,87,99,Burger
+2024-07-07,Desi Masala Crunch,23,119,Burger
+2024-07-07,Punjabi Paneer,96,109,Burger
+2024-07-07,Veg King Burger,44,99,Burger
+2024-07-07,Paneer Supreme Burger,88,129,Burger
+2024-07-07,Double Crispy Cheese Burger,92,129,Burger
+2024-07-08,Aloo Tikki Burger,46,49,Burger
+2024-07-08,Aloo Tikki Twist,77,69,Burger
+2024-07-08,Veg Makhani,62,79,Burger
+2024-07-08,Crispy Veg Burger,76,99,Burger
+2024-07-08,Veg Chilly Loaded Burger,96,99,Burger
+2024-07-08,Desi Masala Crunch,53,119,Burger
+2024-07-08,Punjabi Paneer,47,109,Burger
+2024-07-08,Veg King Burger,85,99,Burger
+2024-07-08,Paneer Supreme Burger,73,129,Burger
+2024-07-08,Double Crispy Cheese Burger,47,129,Burger
+2024-07-09,Aloo Tikki Burger,66,49,Burger
+2024-07-09,Aloo Tikki Twist,22,69,Burger
+2024-07-09,Veg Makhani,81,79,Burger
+2024-07-09,Crispy Veg Burger,90,99,Burger
+2024-07-09,Veg Chilly Loaded Burger,29,99,Burger
+2024-07-09,Desi Masala Crunch,95,119,Burger
+2024-07-09,Punjabi Paneer,54,109,Burger
+2024-07-09,Veg King Burger,33,99,Burger
+2024-07-09,Paneer Supreme Burger,91,129,Burger
+2024-07-09,Double Crispy Cheese Burger,80,129,Burger
+2024-07-10,Aloo Tikki Burger,57,49,Burger
+2024-07-10,Aloo Tikki Twist,38,69,Burger
+2024-07-10,Veg Makhani,24,79,Burger
+2024-07-10,Crispy Veg Burger,73,99,Burger
+2024-07-10,Veg Chilly Loaded Burger,67,99,Burger
+2024-07-10,Desi Masala Crunch,75,119,Burger
+2024-07-10,Punjabi Paneer,31,109,Burger
+2024-07-10,Veg King Burger,27,99,Burger
+2024-07-10,Paneer Supreme Burger,85,129,Burger
+2024-07-10,Double Crispy Cheese Burger,41,129,Burger
+2024-07-11,Aloo Tikki Burger,81,49,Burger
+2024-07-11,Aloo Tikki Twist,31,69,Burger
+2024-07-11,Veg Makhani,50,79,Burger
+2024-07-11,Crispy Veg Burger,51,99,Burger
+2024-07-11,Veg Chilly Loaded Burger,41,99,Burger
+2024-07-11,Desi Masala Crunch,93,119,Burger
+2024-07-11,Punjabi Paneer,25,109,Burger
+2024-07-11,Veg King Burger,38,99,Burger
+2024-07-11,Paneer Supreme Burger,29,129,Burger
+2024-07-11,Double Crispy Cheese Burger,75,129,Burger
+2024-07-12,Aloo Tikki Burger,70,49,Burger
+2024-07-12,Aloo Tikki Twist,77,69,Burger
+2024-07-12,Veg Makhani,68,79,Burger
+2024-07-12,Crispy Veg Burger,68,99,Burger
+2024-07-12,Veg Chilly Loaded Burger,45,99,Burger
+2024-07-12,Desi Masala Crunch,34,119,Burger
+2024-07-12,Punjabi Paneer,20,109,Burger
+2024-07-12,Veg King Burger,21,99,Burger
+2024-07-12,Paneer Supreme Burger,48,129,Burger
+2024-07-12,Double Crispy Cheese Burger,31,129,Burger
+2024-07-13,Aloo Tikki Burger,62,49,Burger
+2024-07-13,Aloo Tikki Twist,96,69,Burger
+2024-07-13,Veg Makhani,81,79,Burger
+2024-07-13,Crispy Veg Burger,70,99,Burger
+2024-07-13,Veg Chilly Loaded Burger,32,99,Burger
+2024-07-13,Desi Masala Crunch,24,119,Burger
+2024-07-13,Punjabi Paneer,77,109,Burger
+2024-07-13,Veg King Burger,51,99,Burger
+2024-07-13,Paneer Supreme Burger,31,129,Burger
+2024-07-13,Double Crispy Cheese Burger,32,129,Burger
+2024-07-14,Aloo Tikki Burger,53,49,Burger
+2024-07-14,Aloo Tikki Twist,98,69,Burger
+2024-07-14,Veg Makhani,63,79,Burger
+2024-07-14,Crispy Veg Burger,93,99,Burger
+2024-07-14,Veg Chilly Loaded Burger,88,99,Burger
+2024-07-14,Desi Masala Crunch,86,119,Burger
+2024-07-14,Punjabi Paneer,63,109,Burger
+2024-07-14,Veg King Burger,70,99,Burger
+2024-07-14,Paneer Supreme Burger,24,129,Burger
+2024-07-14,Double Crispy Cheese Burger,54,129,Burger
+2024-07-15,Aloo Tikki Burger,47,49,Burger
+2024-07-15,Aloo Tikki Twist,95,69,Burger
+2024-07-15,Veg Makhani,33,79,Burger
+2024-07-15,Crispy Veg Burger,56,99,Burger
+2024-07-15,Veg Chilly Loaded Burger,51,99,Burger
+2024-07-15,Desi Masala Crunch,38,119,Burger
+2024-07-15,Punjabi Paneer,82,109,Burger
+2024-07-15,Veg King Burger,54,99,Burger
+2024-07-15,Paneer Supreme Burger,65,129,Burger
+2024-07-15,Double Crispy Cheese Burger,79,129,Burger
+2024-07-16,Aloo Tikki Burger,89,49,Burger
+2024-07-16,Aloo Tikki Twist,41,69,Burger
+2024-07-16,Veg Makhani,20,79,Burger
+2024-07-16,Crispy Veg Burger,30,99,Burger
+2024-07-16,Veg Chilly Loaded Burger,74,99,Burger
+2024-07-16,Desi Masala Crunch,62,119,Burger
+2024-07-16,Punjabi Paneer,66,109,Burger
+2024-07-16,Veg King Burger,21,99,Burger
+2024-07-16,Paneer Supreme Burger,28,129,Burger
+2024-07-16,Double Crispy Cheese Burger,71,129,Burger
+2024-07-17,Aloo Tikki Burger,48,49,Burger
+2024-07-17,Aloo Tikki Twist,96,69,Burger
+2024-07-17,Veg Makhani,88,79,Burger
+2024-07-17,Crispy Veg Burger,75,99,Burger
+2024-07-17,Veg Chilly Loaded Burger,24,99,Burger
+2024-07-17,Desi Masala Crunch,77,119,Burger
+2024-07-17,Punjabi Paneer,82,109,Burger
+2024-07-17,Veg King Burger,81,99,Burger
+2024-07-17,Paneer Supreme Burger,90,129,Burger
+2024-07-17,Double Crispy Cheese Burger,70,129,Burger
+2024-07-18,Aloo Tikki Burger,28,49,Burger
+2024-07-18,Aloo Tikki Twist,87,69,Burger
+2024-07-18,Veg Makhani,51,79,Burger
+2024-07-18,Crispy Veg Burger,75,99,Burger
+2024-07-18,Veg Chilly Loaded Burger,58,99,Burger
+2024-07-18,Desi Masala Crunch,82,119,Burger
+2024-07-18,Punjabi Paneer,48,109,Burger
+2024-07-18,Veg King Burger,65,99,Burger
+2024-07-18,Paneer Supreme Burger,31,129,Burger
+2024-07-18,Double Crispy Cheese Burger,72,129,Burger
+2024-07-19,Aloo Tikki Burger,62,49,Burger
+2024-07-19,Aloo Tikki Twist,96,69,Burger
+2024-07-19,Veg Makhani,94,79,Burger
+2024-07-19,Crispy Veg Burger,87,99,Burger
+2024-07-19,Veg Chilly Loaded Burger,43,99,Burger
+2024-07-19,Desi Masala Crunch,75,119,Burger
+2024-07-19,Punjabi Paneer,25,109,Burger
+2024-07-19,Veg King Burger,71,99,Burger
+2024-07-19,Paneer Supreme Burger,97,129,Burger
+2024-07-19,Double Crispy Cheese Burger,30,129,Burger
+2024-07-20,Aloo Tikki Burger,52,49,Burger
+2024-07-20,Aloo Tikki Twist,65,69,Burger
+2024-07-20,Veg Makhani,67,79,Burger
+2024-07-20,Crispy Veg Burger,32,99,Burger
+2024-07-20,Veg Chilly Loaded Burger,89,99,Burger
+2024-07-20,Desi Masala Crunch,29,119,Burger
+2024-07-20,Punjabi Paneer,63,109,Burger
+2024-07-20,Veg King Burger,80,99,Burger
+2024-07-20,Paneer Supreme Burger,86,129,Burger
+2024-07-20,Double Crispy Cheese Burger,97,129,Burger
+2024-07-21,Aloo Tikki Burger,64,49,Burger
+2024-07-21,Aloo Tikki Twist,75,69,Burger
+2024-07-21,Veg Makhani,73,79,Burger
+2024-07-21,Crispy Veg Burger,55,99,Burger
+2024-07-21,Veg Chilly Loaded Burger,32,99,Burger
+2024-07-21,Desi Masala Crunch,61,119,Burger
+2024-07-21,Punjabi Paneer,74,109,Burger
+2024-07-21,Veg King Burger,89,99,Burger
+2024-07-21,Paneer Supreme Burger,66,129,Burger
+2024-07-21,Double Crispy Cheese Burger,82,129,Burger
+2024-07-22,Aloo Tikki Burger,55,49,Burger
+2024-07-22,Aloo Tikki Twist,30,69,Burger
+2024-07-22,Veg Makhani,92,79,Burger
+2024-07-22,Crispy Veg Burger,90,99,Burger
+2024-07-22,Veg Chilly Loaded Burger,24,99,Burger
+2024-07-22,Desi Masala Crunch,20,119,Burger
+2024-07-22,Punjabi Paneer,54,109,Burger
+2024-07-22,Veg King Burger,21,99,Burger
+2024-07-22,Paneer Supreme Burger,49,129,Burger
+2024-07-22,Double Crispy Cheese Burger,96,129,Burger
+2024-07-23,Aloo Tikki Burger,39,49,Burger
+2024-07-23,Aloo Tikki Twist,38,69,Burger
+2024-07-23,Veg Makhani,88,79,Burger
+2024-07-23,Crispy Veg Burger,82,99,Burger
+2024-07-23,Veg Chilly Loaded Burger,68,99,Burger
+2024-07-23,Desi Masala Crunch,46,119,Burger
+2024-07-23,Punjabi Paneer,82,109,Burger
+2024-07-23,Veg King Burger,37,99,Burger
+2024-07-23,Paneer Supreme Burger,34,129,Burger
+2024-07-23,Double Crispy Cheese Burger,46,129,Burger
+2024-07-24,Aloo Tikki Burger,38,49,Burger
+2024-07-24,Aloo Tikki Twist,67,69,Burger
+2024-07-24,Veg Makhani,53,79,Burger
+2024-07-24,Crispy Veg Burger,43,99,Burger
+2024-07-24,Veg Chilly Loaded Burger,34,99,Burger
+2024-07-24,Desi Masala Crunch,34,119,Burger
+2024-07-24,Punjabi Paneer,90,109,Burger
+2024-07-24,Veg King Burger,80,99,Burger
+2024-07-24,Paneer Supreme Burger,45,129,Burger
+2024-07-24,Double Crispy Cheese Burger,59,129,Burger
+2024-07-25,Aloo Tikki Burger,96,49,Burger
+2024-07-25,Aloo Tikki Twist,89,69,Burger
+2024-07-25,Veg Makhani,77,79,Burger
+2024-07-25,Crispy Veg Burger,53,99,Burger
+2024-07-25,Veg Chilly Loaded Burger,78,99,Burger
+2024-07-25,Desi Masala Crunch,57,119,Burger
+2024-07-25,Punjabi Paneer,37,109,Burger
+2024-07-25,Veg King Burger,66,99,Burger
+2024-07-25,Paneer Supreme Burger,47,129,Burger
+2024-07-25,Double Crispy Cheese Burger,82,129,Burger
+2024-07-26,Aloo Tikki Burger,77,49,Burger
+2024-07-26,Aloo Tikki Twist,79,69,Burger
+2024-07-26,Veg Makhani,67,79,Burger
+2024-07-26,Crispy Veg Burger,57,99,Burger
+2024-07-26,Veg Chilly Loaded Burger,41,99,Burger
+2024-07-26,Desi Masala Crunch,30,119,Burger
+2024-07-26,Punjabi Paneer,78,109,Burger
+2024-07-26,Veg King Burger,44,99,Burger
+2024-07-26,Paneer Supreme Burger,87,129,Burger
+2024-07-26,Double Crispy Cheese Burger,67,129,Burger
+2024-07-27,Aloo Tikki Burger,47,49,Burger
+2024-07-27,Aloo Tikki Twist,78,69,Burger
+2024-07-27,Veg Makhani,76,79,Burger
+2024-07-27,Crispy Veg Burger,76,99,Burger
+2024-07-27,Veg Chilly Loaded Burger,39,99,Burger
+2024-07-27,Desi Masala Crunch,96,119,Burger
+2024-07-27,Punjabi Paneer,82,109,Burger
+2024-07-27,Veg King Burger,66,99,Burger
+2024-07-27,Paneer Supreme Burger,79,129,Burger
+2024-07-27,Double Crispy Cheese Burger,44,129,Burger
+2024-07-28,Aloo Tikki Burger,72,49,Burger
+2024-07-28,Aloo Tikki Twist,78,69,Burger
+2024-07-28,Veg Makhani,43,79,Burger
+2024-07-28,Crispy Veg Burger,51,99,Burger
+2024-07-28,Veg Chilly Loaded Burger,69,99,Burger
+2024-07-28,Desi Masala Crunch,23,119,Burger
+2024-07-28,Punjabi Paneer,39,109,Burger
+2024-07-28,Veg King Burger,57,99,Burger
+2024-07-28,Paneer Supreme Burger,26,129,Burger
+2024-07-28,Double Crispy Cheese Burger,95,129,Burger
+2024-07-29,Aloo Tikki Burger,54,49,Burger
+2024-07-29,Aloo Tikki Twist,44,69,Burger
+2024-07-29,Veg Makhani,43,79,Burger
+2024-07-29,Crispy Veg Burger,60,99,Burger
+2024-07-29,Veg Chilly Loaded Burger,37,99,Burger
+2024-07-29,Desi Masala Crunch,39,119,Burger
+2024-07-29,Punjabi Paneer,95,109,Burger
+2024-07-29,Veg King Burger,21,99,Burger
+2024-07-29,Paneer Supreme Burger,52,129,Burger
+2024-07-29,Double Crispy Cheese Burger,76,129,Burger
+2024-07-30,Aloo Tikki Burger,27,49,Burger
+2024-07-30,Aloo Tikki Twist,79,69,Burger
+2024-07-30,Veg Makhani,80,79,Burger
+2024-07-30,Crispy Veg Burger,60,99,Burger
+2024-07-30,Veg Chilly Loaded Burger,42,99,Burger
+2024-07-30,Desi Masala Crunch,23,119,Burger
+2024-07-30,Punjabi Paneer,43,109,Burger
+2024-07-30,Veg King Burger,44,99,Burger
+2024-07-30,Paneer Supreme Burger,31,129,Burger
+2024-07-30,Double Crispy Cheese Burger,73,129,Burger
+2024-07-31,Aloo Tikki Burger,97,49,Burger
+2024-07-31,Aloo Tikki Twist,94,69,Burger
+2024-07-31,Veg Makhani,61,79,Burger
+2024-07-31,Crispy Veg Burger,45,99,Burger
+2024-07-31,Veg Chilly Loaded Burger,91,99,Burger
+2024-07-31,Desi Masala Crunch,68,119,Burger
+2024-07-31,Punjabi Paneer,55,109,Burger
+2024-07-31,Veg King Burger,86,99,Burger
+2024-07-31,Paneer Supreme Burger,44,129,Burger
+2024-07-31,Double Crispy Cheese Burger,86,129,Burger
+2024-08-01,Aloo Tikki Burger,85,49,Burger
+2024-08-01,Aloo Tikki Twist,50,69,Burger
+2024-08-01,Veg Makhani,99,79,Burger
+2024-08-01,Crispy Veg Burger,88,99,Burger
+2024-08-01,Veg Chilly Loaded Burger,20,99,Burger
+2024-08-01,Desi Masala Crunch,32,119,Burger
+2024-08-01,Punjabi Paneer,72,109,Burger
+2024-08-01,Veg King Burger,79,99,Burger
+2024-08-01,Paneer Supreme Burger,39,129,Burger
+2024-08-01,Double Crispy Cheese Burger,36,129,Burger
+2024-08-02,Aloo Tikki Burger,27,49,Burger
+2024-08-02,Aloo Tikki Twist,70,69,Burger
+2024-08-02,Veg Makhani,95,79,Burger
+2024-08-02,Crispy Veg Burger,58,99,Burger
+2024-08-02,Veg Chilly Loaded Burger,38,99,Burger
+2024-08-02,Desi Masala Crunch,96,119,Burger
+2024-08-02,Punjabi Paneer,72,109,Burger
+2024-08-02,Veg King Burger,36,99,Burger
+2024-08-02,Paneer Supreme Burger,28,129,Burger
+2024-08-02,Double Crispy Cheese Burger,71,129,Burger
+2024-08-03,Aloo Tikki Burger,79,49,Burger
+2024-08-03,Aloo Tikki Twist,87,69,Burger
+2024-08-03,Veg Makhani,83,79,Burger
+2024-08-03,Crispy Veg Burger,45,99,Burger
+2024-08-03,Veg Chilly Loaded Burger,46,99,Burger
+2024-08-03,Desi Masala Crunch,25,119,Burger
+2024-08-03,Punjabi Paneer,52,109,Burger
+2024-08-03,Veg King Burger,46,99,Burger
+2024-08-03,Paneer Supreme Burger,95,129,Burger
+2024-08-03,Double Crispy Cheese Burger,72,129,Burger
+2024-08-04,Aloo Tikki Burger,73,49,Burger
+2024-08-04,Aloo Tikki Twist,68,69,Burger
+2024-08-04,Veg Makhani,21,79,Burger
+2024-08-04,Crispy Veg Burger,62,99,Burger
+2024-08-04,Veg Chilly Loaded Burger,78,99,Burger
+2024-08-04,Desi Masala Crunch,64,119,Burger
+2024-08-04,Punjabi Paneer,36,109,Burger
+2024-08-04,Veg King Burger,43,99,Burger
+2024-08-04,Paneer Supreme Burger,98,129,Burger
+2024-08-04,Double Crispy Cheese Burger,92,129,Burger
+2024-08-05,Aloo Tikki Burger,68,49,Burger
+2024-08-05,Aloo Tikki Twist,97,69,Burger
+2024-08-05,Veg Makhani,53,79,Burger
+2024-08-05,Crispy Veg Burger,60,99,Burger
+2024-08-05,Veg Chilly Loaded Burger,44,99,Burger
+2024-08-05,Desi Masala Crunch,83,119,Burger
+2024-08-05,Punjabi Paneer,84,109,Burger
+2024-08-05,Veg King Burger,63,99,Burger
+2024-08-05,Paneer Supreme Burger,89,129,Burger
+2024-08-05,Double Crispy Cheese Burger,27,129,Burger
+2024-08-06,Aloo Tikki Burger,44,49,Burger
+2024-08-06,Aloo Tikki Twist,42,69,Burger
+2024-08-06,Veg Makhani,77,79,Burger
+2024-08-06,Crispy Veg Burger,95,99,Burger
+2024-08-06,Veg Chilly Loaded Burger,44,99,Burger
+2024-08-06,Desi Masala Crunch,75,119,Burger
+2024-08-06,Punjabi Paneer,89,109,Burger
+2024-08-06,Veg King Burger,71,99,Burger
+2024-08-06,Paneer Supreme Burger,56,129,Burger
+2024-08-06,Double Crispy Cheese Burger,49,129,Burger
+2024-08-07,Aloo Tikki Burger,74,49,Burger
+2024-08-07,Aloo Tikki Twist,50,69,Burger
+2024-08-07,Veg Makhani,81,79,Burger
+2024-08-07,Crispy Veg Burger,74,99,Burger
+2024-08-07,Veg Chilly Loaded Burger,90,99,Burger
+2024-08-07,Desi Masala Crunch,78,119,Burger
+2024-08-07,Punjabi Paneer,49,109,Burger
+2024-08-07,Veg King Burger,75,99,Burger
+2024-08-07,Paneer Supreme Burger,74,129,Burger
+2024-08-07,Double Crispy Cheese Burger,67,129,Burger
+2024-08-08,Aloo Tikki Burger,87,49,Burger
+2024-08-08,Aloo Tikki Twist,40,69,Burger
+2024-08-08,Veg Makhani,23,79,Burger
+2024-08-08,Crispy Veg Burger,67,99,Burger
+2024-08-08,Veg Chilly Loaded Burger,31,99,Burger
+2024-08-08,Desi Masala Crunch,24,119,Burger
+2024-08-08,Punjabi Paneer,53,109,Burger
+2024-08-08,Veg King Burger,71,99,Burger
+2024-08-08,Paneer Supreme Burger,36,129,Burger
+2024-08-08,Double Crispy Cheese Burger,45,129,Burger
+2024-08-09,Aloo Tikki Burger,32,49,Burger
+2024-08-09,Aloo Tikki Twist,52,69,Burger
+2024-08-09,Veg Makhani,20,79,Burger
+2024-08-09,Crispy Veg Burger,24,99,Burger
+2024-08-09,Veg Chilly Loaded Burger,90,99,Burger
+2024-08-09,Desi Masala Crunch,24,119,Burger
+2024-08-09,Punjabi Paneer,76,109,Burger
+2024-08-09,Veg King Burger,62,99,Burger
+2024-08-09,Paneer Supreme Burger,63,129,Burger
+2024-08-09,Double Crispy Cheese Burger,94,129,Burger
+2024-08-10,Aloo Tikki Burger,75,49,Burger
+2024-08-10,Aloo Tikki Twist,58,69,Burger
+2024-08-10,Veg Makhani,97,79,Burger
+2024-08-10,Crispy Veg Burger,99,99,Burger
+2024-08-10,Veg Chilly Loaded Burger,73,99,Burger
+2024-08-10,Desi Masala Crunch,27,119,Burger
+2024-08-10,Punjabi Paneer,21,109,Burger
+2024-08-10,Veg King Burger,47,99,Burger
+2024-08-10,Paneer Supreme Burger,31,129,Burger
+2024-08-10,Double Crispy Cheese Burger,34,129,Burger
+2024-08-11,Aloo Tikki Burger,31,49,Burger
+2024-08-11,Aloo Tikki Twist,89,69,Burger
+2024-08-11,Veg Makhani,87,79,Burger
+2024-08-11,Crispy Veg Burger,42,99,Burger
+2024-08-11,Veg Chilly Loaded Burger,73,99,Burger
+2024-08-11,Desi Masala Crunch,49,119,Burger
+2024-08-11,Punjabi Paneer,77,109,Burger
+2024-08-11,Veg King Burger,33,99,Burger
+2024-08-11,Paneer Supreme Burger,56,129,Burger
+2024-08-11,Double Crispy Cheese Burger,88,129,Burger
+2024-08-12,Aloo Tikki Burger,65,49,Burger
+2024-08-12,Aloo Tikki Twist,51,69,Burger
+2024-08-12,Veg Makhani,56,79,Burger
+2024-08-12,Crispy Veg Burger,73,99,Burger
+2024-08-12,Veg Chilly Loaded Burger,37,99,Burger
+2024-08-12,Desi Masala Crunch,86,119,Burger
+2024-08-12,Punjabi Paneer,60,109,Burger
+2024-08-12,Veg King Burger,62,99,Burger
+2024-08-12,Paneer Supreme Burger,36,129,Burger
+2024-08-12,Double Crispy Cheese Burger,86,129,Burger
+2024-08-13,Aloo Tikki Burger,50,49,Burger
+2024-08-13,Aloo Tikki Twist,72,69,Burger
+2024-08-13,Veg Makhani,67,79,Burger
+2024-08-13,Crispy Veg Burger,56,99,Burger
+2024-08-13,Veg Chilly Loaded Burger,84,99,Burger
+2024-08-13,Desi Masala Crunch,80,119,Burger
+2024-08-13,Punjabi Paneer,92,109,Burger
+2024-08-13,Veg King Burger,73,99,Burger
+2024-08-13,Paneer Supreme Burger,60,129,Burger
+2024-08-13,Double Crispy Cheese Burger,49,129,Burger
+2024-08-14,Aloo Tikki Burger,26,49,Burger
+2024-08-14,Aloo Tikki Twist,70,69,Burger
+2024-08-14,Veg Makhani,29,79,Burger
+2024-08-14,Crispy Veg Burger,28,99,Burger
+2024-08-14,Veg Chilly Loaded Burger,86,99,Burger
+2024-08-14,Desi Masala Crunch,35,119,Burger
+2024-08-14,Punjabi Paneer,36,109,Burger
+2024-08-14,Veg King Burger,55,99,Burger
+2024-08-14,Paneer Supreme Burger,23,129,Burger
+2024-08-14,Double Crispy Cheese Burger,35,129,Burger
+2024-08-15,Aloo Tikki Burger,59,49,Burger
+2024-08-15,Aloo Tikki Twist,67,69,Burger
+2024-08-15,Veg Makhani,25,79,Burger
+2024-08-15,Crispy Veg Burger,76,99,Burger
+2024-08-15,Veg Chilly Loaded Burger,41,99,Burger
+2024-08-15,Desi Masala Crunch,48,119,Burger
+2024-08-15,Punjabi Paneer,75,109,Burger
+2024-08-15,Veg King Burger,45,99,Burger
+2024-08-15,Paneer Supreme Burger,49,129,Burger
+2024-08-15,Double Crispy Cheese Burger,87,129,Burger
+2024-08-16,Aloo Tikki Burger,97,49,Burger
+2024-08-16,Aloo Tikki Twist,68,69,Burger
+2024-08-16,Veg Makhani,70,79,Burger
+2024-08-16,Crispy Veg Burger,45,99,Burger
+2024-08-16,Veg Chilly Loaded Burger,46,99,Burger
+2024-08-16,Desi Masala Crunch,76,119,Burger
+2024-08-16,Punjabi Paneer,28,109,Burger
+2024-08-16,Veg King Burger,89,99,Burger
+2024-08-16,Paneer Supreme Burger,30,129,Burger
+2024-08-16,Double Crispy Cheese Burger,75,129,Burger
+2024-08-17,Aloo Tikki Burger,41,49,Burger
+2024-08-17,Aloo Tikki Twist,67,69,Burger
+2024-08-17,Veg Makhani,56,79,Burger
+2024-08-17,Crispy Veg Burger,64,99,Burger
+2024-08-17,Veg Chilly Loaded Burger,36,99,Burger
+2024-08-17,Desi Masala Crunch,32,119,Burger
+2024-08-17,Punjabi Paneer,53,109,Burger
+2024-08-17,Veg King Burger,40,99,Burger
+2024-08-17,Paneer Supreme Burger,53,129,Burger
+2024-08-17,Double Crispy Cheese Burger,21,129,Burger
+2024-08-18,Aloo Tikki Burger,23,49,Burger
+2024-08-18,Aloo Tikki Twist,60,69,Burger
+2024-08-18,Veg Makhani,86,79,Burger
+2024-08-18,Crispy Veg Burger,59,99,Burger
+2024-08-18,Veg Chilly Loaded Burger,91,99,Burger
+2024-08-18,Desi Masala Crunch,81,119,Burger
+2024-08-18,Punjabi Paneer,63,109,Burger
+2024-08-18,Veg King Burger,52,99,Burger
+2024-08-18,Paneer Supreme Burger,79,129,Burger
+2024-08-18,Double Crispy Cheese Burger,47,129,Burger
+2024-08-19,Aloo Tikki Burger,68,49,Burger
+2024-08-19,Aloo Tikki Twist,88,69,Burger
+2024-08-19,Veg Makhani,45,79,Burger
+2024-08-19,Crispy Veg Burger,52,99,Burger
+2024-08-19,Veg Chilly Loaded Burger,31,99,Burger
+2024-08-19,Desi Masala Crunch,66,119,Burger
+2024-08-19,Punjabi Paneer,94,109,Burger
+2024-08-19,Veg King Burger,45,99,Burger
+2024-08-19,Paneer Supreme Burger,88,129,Burger
+2024-08-19,Double Crispy Cheese Burger,53,129,Burger
+2024-08-20,Aloo Tikki Burger,76,49,Burger
+2024-08-20,Aloo Tikki Twist,77,69,Burger
+2024-08-20,Veg Makhani,54,79,Burger
+2024-08-20,Crispy Veg Burger,59,99,Burger
+2024-08-20,Veg Chilly Loaded Burger,81,99,Burger
+2024-08-20,Desi Masala Crunch,51,119,Burger
+2024-08-20,Punjabi Paneer,37,109,Burger
+2024-08-20,Veg King Burger,45,99,Burger
+2024-08-20,Paneer Supreme Burger,49,129,Burger
+2024-08-20,Double Crispy Cheese Burger,98,129,Burger
+2024-08-21,Aloo Tikki Burger,56,49,Burger
+2024-08-21,Aloo Tikki Twist,32,69,Burger
+2024-08-21,Veg Makhani,37,79,Burger
+2024-08-21,Crispy Veg Burger,94,99,Burger
+2024-08-21,Veg Chilly Loaded Burger,42,99,Burger
+2024-08-21,Desi Masala Crunch,49,119,Burger
+2024-08-21,Punjabi Paneer,73,109,Burger
+2024-08-21,Veg King Burger,49,99,Burger
+2024-08-21,Paneer Supreme Burger,62,129,Burger
+2024-08-21,Double Crispy Cheese Burger,21,129,Burger
+2024-08-22,Aloo Tikki Burger,45,49,Burger
+2024-08-22,Aloo Tikki Twist,66,69,Burger
+2024-08-22,Veg Makhani,82,79,Burger
+2024-08-22,Crispy Veg Burger,97,99,Burger
+2024-08-22,Veg Chilly Loaded Burger,55,99,Burger
+2024-08-22,Desi Masala Crunch,43,119,Burger
+2024-08-22,Punjabi Paneer,39,109,Burger
+2024-08-22,Veg King Burger,32,99,Burger
+2024-08-22,Paneer Supreme Burger,39,129,Burger
+2024-08-22,Double Crispy Cheese Burger,59,129,Burger
+2024-08-23,Aloo Tikki Burger,45,49,Burger
+2024-08-23,Aloo Tikki Twist,90,69,Burger
+2024-08-23,Veg Makhani,32,79,Burger
+2024-08-23,Crispy Veg Burger,96,99,Burger
+2024-08-23,Veg Chilly Loaded Burger,37,99,Burger
+2024-08-23,Desi Masala Crunch,87,119,Burger
+2024-08-23,Punjabi Paneer,92,109,Burger
+2024-08-23,Veg King Burger,78,99,Burger
+2024-08-23,Paneer Supreme Burger,28,129,Burger
+2024-08-23,Double Crispy Cheese Burger,50,129,Burger
+2024-08-24,Aloo Tikki Burger,64,49,Burger
+2024-08-24,Aloo Tikki Twist,65,69,Burger
+2024-08-24,Veg Makhani,87,79,Burger
+2024-08-24,Crispy Veg Burger,52,99,Burger
+2024-08-24,Veg Chilly Loaded Burger,97,99,Burger
+2024-08-24,Desi Masala Crunch,99,119,Burger
+2024-08-24,Punjabi Paneer,49,109,Burger
+2024-08-24,Veg King Burger,87,99,Burger
+2024-08-24,Paneer Supreme Burger,23,129,Burger
+2024-08-24,Double Crispy Cheese Burger,95,129,Burger
+2024-08-25,Aloo Tikki Burger,87,49,Burger
+2024-08-25,Aloo Tikki Twist,66,69,Burger
+2024-08-25,Veg Makhani,52,79,Burger
+2024-08-25,Crispy Veg Burger,36,99,Burger
+2024-08-25,Veg Chilly Loaded Burger,35,99,Burger
+2024-08-25,Desi Masala Crunch,98,119,Burger
+2024-08-25,Punjabi Paneer,36,109,Burger
+2024-08-25,Veg King Burger,91,99,Burger
+2024-08-25,Paneer Supreme Burger,58,129,Burger
+2024-08-25,Double Crispy Cheese Burger,33,129,Burger
+2024-08-26,Aloo Tikki Burger,53,49,Burger
+2024-08-26,Aloo Tikki Twist,29,69,Burger
+2024-08-26,Veg Makhani,89,79,Burger
+2024-08-26,Crispy Veg Burger,57,99,Burger
+2024-08-26,Veg Chilly Loaded Burger,47,99,Burger
+2024-08-26,Desi Masala Crunch,56,119,Burger
+2024-08-26,Punjabi Paneer,21,109,Burger
+2024-08-26,Veg King Burger,94,99,Burger
+2024-08-26,Paneer Supreme Burger,78,129,Burger
+2024-08-26,Double Crispy Cheese Burger,38,129,Burger
+2024-08-27,Aloo Tikki Burger,45,49,Burger
+2024-08-27,Aloo Tikki Twist,70,69,Burger
+2024-08-27,Veg Makhani,70,79,Burger
+2024-08-27,Crispy Veg Burger,43,99,Burger
+2024-08-27,Veg Chilly Loaded Burger,28,99,Burger
+2024-08-27,Desi Masala Crunch,42,119,Burger
+2024-08-27,Punjabi Paneer,66,109,Burger
+2024-08-27,Veg King Burger,47,99,Burger
+2024-08-27,Paneer Supreme Burger,58,129,Burger
+2024-08-27,Double Crispy Cheese Burger,21,129,Burger
+2024-08-28,Aloo Tikki Burger,50,49,Burger
+2024-08-28,Aloo Tikki Twist,48,69,Burger
+2024-08-28,Veg Makhani,36,79,Burger
+2024-08-28,Crispy Veg Burger,67,99,Burger
+2024-08-28,Veg Chilly Loaded Burger,92,99,Burger
+2024-08-28,Desi Masala Crunch,69,119,Burger
+2024-08-28,Punjabi Paneer,52,109,Burger
+2024-08-28,Veg King Burger,68,99,Burger
+2024-08-28,Paneer Supreme Burger,67,129,Burger
+2024-08-28,Double Crispy Cheese Burger,95,129,Burger
+2024-08-29,Aloo Tikki Burger,61,49,Burger
+2024-08-29,Aloo Tikki Twist,70,69,Burger
+2024-08-29,Veg Makhani,81,79,Burger
+2024-08-29,Crispy Veg Burger,90,99,Burger
+2024-08-29,Veg Chilly Loaded Burger,47,99,Burger
+2024-08-29,Desi Masala Crunch,87,119,Burger
+2024-08-29,Punjabi Paneer,45,109,Burger
+2024-08-29,Veg King Burger,87,99,Burger
+2024-08-29,Paneer Supreme Burger,41,129,Burger
+2024-08-29,Double Crispy Cheese Burger,59,129,Burger
+2024-08-30,Aloo Tikki Burger,60,49,Burger
+2024-08-30,Aloo Tikki Twist,61,69,Burger
+2024-08-30,Veg Makhani,60,79,Burger
+2024-08-30,Crispy Veg Burger,31,99,Burger
+2024-08-30,Veg Chilly Loaded Burger,43,99,Burger
+2024-08-30,Desi Masala Crunch,25,119,Burger
+2024-08-30,Punjabi Paneer,90,109,Burger
+2024-08-30,Veg King Burger,69,99,Burger
+2024-08-30,Paneer Supreme Burger,78,129,Burger
+2024-08-30,Double Crispy Cheese Burger,43,129,Burger
+2024-08-31,Aloo Tikki Burger,93,49,Burger
+2024-08-31,Aloo Tikki Twist,83,69,Burger
+2024-08-31,Veg Makhani,82,79,Burger
+2024-08-31,Crispy Veg Burger,28,99,Burger
+2024-08-31,Veg Chilly Loaded Burger,41,99,Burger
+2024-08-31,Desi Masala Crunch,72,119,Burger
+2024-08-31,Punjabi Paneer,36,109,Burger
+2024-08-31,Veg King Burger,33,99,Burger
+2024-08-31,Paneer Supreme Burger,29,129,Burger
+2024-08-31,Double Crispy Cheese Burger,47,129,Burger
+2024-09-01,Aloo Tikki Burger,46,49,Burger
+2024-09-01,Aloo Tikki Twist,85,69,Burger
+2024-09-01,Veg Makhani,55,79,Burger
+2024-09-01,Crispy Veg Burger,48,99,Burger
+2024-09-01,Veg Chilly Loaded Burger,49,99,Burger
+2024-09-01,Desi Masala Crunch,96,119,Burger
+2024-09-01,Punjabi Paneer,26,109,Burger
+2024-09-01,Veg King Burger,72,99,Burger
+2024-09-01,Paneer Supreme Burger,25,129,Burger
+2024-09-01,Double Crispy Cheese Burger,61,129,Burger
+2024-09-02,Aloo Tikki Burger,82,49,Burger
+2024-09-02,Aloo Tikki Twist,99,69,Burger
+2024-09-02,Veg Makhani,57,79,Burger
+2024-09-02,Crispy Veg Burger,83,99,Burger
+2024-09-02,Veg Chilly Loaded Burger,26,99,Burger
+2024-09-02,Desi Masala Crunch,26,119,Burger
+2024-09-02,Punjabi Paneer,63,109,Burger
+2024-09-02,Veg King Burger,80,99,Burger
+2024-09-02,Paneer Supreme Burger,85,129,Burger
+2024-09-02,Double Crispy Cheese Burger,99,129,Burger
+2024-09-03,Aloo Tikki Burger,64,49,Burger
+2024-09-03,Aloo Tikki Twist,70,69,Burger
+2024-09-03,Veg Makhani,91,79,Burger
+2024-09-03,Crispy Veg Burger,65,99,Burger
+2024-09-03,Veg Chilly Loaded Burger,40,99,Burger
+2024-09-03,Desi Masala Crunch,85,119,Burger
+2024-09-03,Punjabi Paneer,76,109,Burger
+2024-09-03,Veg King Burger,56,99,Burger
+2024-09-03,Paneer Supreme Burger,92,129,Burger
+2024-09-03,Double Crispy Cheese Burger,99,129,Burger
+2024-09-04,Aloo Tikki Burger,70,49,Burger
+2024-09-04,Aloo Tikki Twist,44,69,Burger
+2024-09-04,Veg Makhani,32,79,Burger
+2024-09-04,Crispy Veg Burger,34,99,Burger
+2024-09-04,Veg Chilly Loaded Burger,70,99,Burger
+2024-09-04,Desi Masala Crunch,87,119,Burger
+2024-09-04,Punjabi Paneer,63,109,Burger
+2024-09-04,Veg King Burger,60,99,Burger
+2024-09-04,Paneer Supreme Burger,43,129,Burger
+2024-09-04,Double Crispy Cheese Burger,60,129,Burger
+2024-09-05,Aloo Tikki Burger,72,49,Burger
+2024-09-05,Aloo Tikki Twist,58,69,Burger
+2024-09-05,Veg Makhani,71,79,Burger
+2024-09-05,Crispy Veg Burger,75,99,Burger
+2024-09-05,Veg Chilly Loaded Burger,93,99,Burger
+2024-09-05,Desi Masala Crunch,85,119,Burger
+2024-09-05,Punjabi Paneer,44,109,Burger
+2024-09-05,Veg King Burger,87,99,Burger
+2024-09-05,Paneer Supreme Burger,84,129,Burger
+2024-09-05,Double Crispy Cheese Burger,31,129,Burger
+2024-09-06,Aloo Tikki Burger,57,49,Burger
+2024-09-06,Aloo Tikki Twist,45,69,Burger
+2024-09-06,Veg Makhani,57,79,Burger
+2024-09-06,Crispy Veg Burger,67,99,Burger
+2024-09-06,Veg Chilly Loaded Burger,31,99,Burger
+2024-09-06,Desi Masala Crunch,52,119,Burger
+2024-09-06,Punjabi Paneer,85,109,Burger
+2024-09-06,Veg King Burger,26,99,Burger
+2024-09-06,Paneer Supreme Burger,39,129,Burger
+2024-09-06,Double Crispy Cheese Burger,88,129,Burger
+2024-09-07,Aloo Tikki Burger,86,49,Burger
+2024-09-07,Aloo Tikki Twist,52,69,Burger
+2024-09-07,Veg Makhani,24,79,Burger
+2024-09-07,Crispy Veg Burger,75,99,Burger
+2024-09-07,Veg Chilly Loaded Burger,90,99,Burger
+2024-09-07,Desi Masala Crunch,79,119,Burger
+2024-09-07,Punjabi Paneer,25,109,Burger
+2024-09-07,Veg King Burger,49,99,Burger
+2024-09-07,Paneer Supreme Burger,39,129,Burger
+2024-09-07,Double Crispy Cheese Burger,49,129,Burger
+2024-09-08,Aloo Tikki Burger,64,49,Burger
+2024-09-08,Aloo Tikki Twist,97,69,Burger
+2024-09-08,Veg Makhani,21,79,Burger
+2024-09-08,Crispy Veg Burger,25,99,Burger
+2024-09-08,Veg Chilly Loaded Burger,31,99,Burger
+2024-09-08,Desi Masala Crunch,98,119,Burger
+2024-09-08,Punjabi Paneer,55,109,Burger
+2024-09-08,Veg King Burger,44,99,Burger
+2024-09-08,Paneer Supreme Burger,82,129,Burger
+2024-09-08,Double Crispy Cheese Burger,34,129,Burger
+2024-09-09,Aloo Tikki Burger,36,49,Burger
+2024-09-09,Aloo Tikki Twist,94,69,Burger
+2024-09-09,Veg Makhani,24,79,Burger
+2024-09-09,Crispy Veg Burger,46,99,Burger
+2024-09-09,Veg Chilly Loaded Burger,20,99,Burger
+2024-09-09,Desi Masala Crunch,46,119,Burger
+2024-09-09,Punjabi Paneer,31,109,Burger
+2024-09-09,Veg King Burger,63,99,Burger
+2024-09-09,Paneer Supreme Burger,51,129,Burger
+2024-09-09,Double Crispy Cheese Burger,70,129,Burger
+2024-09-10,Aloo Tikki Burger,81,49,Burger
+2024-09-10,Aloo Tikki Twist,76,69,Burger
+2024-09-10,Veg Makhani,60,79,Burger
+2024-09-10,Crispy Veg Burger,80,99,Burger
+2024-09-10,Veg Chilly Loaded Burger,48,99,Burger
+2024-09-10,Desi Masala Crunch,58,119,Burger
+2024-09-10,Punjabi Paneer,72,109,Burger
+2024-09-10,Veg King Burger,21,99,Burger
+2024-09-10,Paneer Supreme Burger,23,129,Burger
+2024-09-10,Double Crispy Cheese Burger,39,129,Burger
+2024-09-11,Aloo Tikki Burger,52,49,Burger
+2024-09-11,Aloo Tikki Twist,61,69,Burger
+2024-09-11,Veg Makhani,57,79,Burger
+2024-09-11,Crispy Veg Burger,46,99,Burger
+2024-09-11,Veg Chilly Loaded Burger,51,99,Burger
+2024-09-11,Desi Masala Crunch,80,119,Burger
+2024-09-11,Punjabi Paneer,88,109,Burger
+2024-09-11,Veg King Burger,46,99,Burger
+2024-09-11,Paneer Supreme Burger,93,129,Burger
+2024-09-11,Double Crispy Cheese Burger,30,129,Burger
+2024-09-12,Aloo Tikki Burger,60,49,Burger
+2024-09-12,Aloo Tikki Twist,25,69,Burger
+2024-09-12,Veg Makhani,31,79,Burger
+2024-09-12,Crispy Veg Burger,76,99,Burger
+2024-09-12,Veg Chilly Loaded Burger,28,99,Burger
+2024-09-12,Desi Masala Crunch,33,119,Burger
+2024-09-12,Punjabi Paneer,93,109,Burger
+2024-09-12,Veg King Burger,97,99,Burger
+2024-09-12,Paneer Supreme Burger,39,129,Burger
+2024-09-12,Double Crispy Cheese Burger,87,129,Burger
+2024-09-13,Aloo Tikki Burger,56,49,Burger
+2024-09-13,Aloo Tikki Twist,21,69,Burger
+2024-09-13,Veg Makhani,20,79,Burger
+2024-09-13,Crispy Veg Burger,44,99,Burger
+2024-09-13,Veg Chilly Loaded Burger,94,99,Burger
+2024-09-13,Desi Masala Crunch,49,119,Burger
+2024-09-13,Punjabi Paneer,96,109,Burger
+2024-09-13,Veg King Burger,56,99,Burger
+2024-09-13,Paneer Supreme Burger,57,129,Burger
+2024-09-13,Double Crispy Cheese Burger,53,129,Burger
+2024-09-14,Aloo Tikki Burger,64,49,Burger
+2024-09-14,Aloo Tikki Twist,45,69,Burger
+2024-09-14,Veg Makhani,55,79,Burger
+2024-09-14,Crispy Veg Burger,35,99,Burger
+2024-09-14,Veg Chilly Loaded Burger,41,99,Burger
+2024-09-14,Desi Masala Crunch,31,119,Burger
+2024-09-14,Punjabi Paneer,56,109,Burger
+2024-09-14,Veg King Burger,75,99,Burger
+2024-09-14,Paneer Supreme Burger,75,129,Burger
+2024-09-14,Double Crispy Cheese Burger,95,129,Burger
+2024-09-15,Aloo Tikki Burger,88,49,Burger
+2024-09-15,Aloo Tikki Twist,42,69,Burger
+2024-09-15,Veg Makhani,75,79,Burger
+2024-09-15,Crispy Veg Burger,20,99,Burger
+2024-09-15,Veg Chilly Loaded Burger,81,99,Burger
+2024-09-15,Desi Masala Crunch,98,119,Burger
+2024-09-15,Punjabi Paneer,36,109,Burger
+2024-09-15,Veg King Burger,56,99,Burger
+2024-09-15,Paneer Supreme Burger,38,129,Burger
+2024-09-15,Double Crispy Cheese Burger,48,129,Burger
+2024-09-16,Aloo Tikki Burger,23,49,Burger
+2024-09-16,Aloo Tikki Twist,99,69,Burger
+2024-09-16,Veg Makhani,54,79,Burger
+2024-09-16,Crispy Veg Burger,41,99,Burger
+2024-09-16,Veg Chilly Loaded Burger,40,99,Burger
+2024-09-16,Desi Masala Crunch,34,119,Burger
+2024-09-16,Punjabi Paneer,86,109,Burger
+2024-09-16,Veg King Burger,37,99,Burger
+2024-09-16,Paneer Supreme Burger,32,129,Burger
+2024-09-16,Double Crispy Cheese Burger,35,129,Burger
+2024-09-17,Aloo Tikki Burger,39,49,Burger
+2024-09-17,Aloo Tikki Twist,59,69,Burger
+2024-09-17,Veg Makhani,82,79,Burger
+2024-09-17,Crispy Veg Burger,91,99,Burger
+2024-09-17,Veg Chilly Loaded Burger,88,99,Burger
+2024-09-17,Desi Masala Crunch,21,119,Burger
+2024-09-17,Punjabi Paneer,50,109,Burger
+2024-09-17,Veg King Burger,20,99,Burger
+2024-09-17,Paneer Supreme Burger,43,129,Burger
+2024-09-17,Double Crispy Cheese Burger,53,129,Burger
+2024-09-18,Aloo Tikki Burger,27,49,Burger
+2024-09-18,Aloo Tikki Twist,22,69,Burger
+2024-09-18,Veg Makhani,21,79,Burger
+2024-09-18,Crispy Veg Burger,84,99,Burger
+2024-09-18,Veg Chilly Loaded Burger,50,99,Burger
+2024-09-18,Desi Masala Crunch,55,119,Burger
+2024-09-18,Punjabi Paneer,65,109,Burger
+2024-09-18,Veg King Burger,66,99,Burger
+2024-09-18,Paneer Supreme Burger,61,129,Burger
+2024-09-18,Double Crispy Cheese Burger,29,129,Burger
+2024-09-19,Aloo Tikki Burger,77,49,Burger
+2024-09-19,Aloo Tikki Twist,40,69,Burger
+2024-09-19,Veg Makhani,61,79,Burger
+2024-09-19,Crispy Veg Burger,87,99,Burger
+2024-09-19,Veg Chilly Loaded Burger,60,99,Burger
+2024-09-19,Desi Masala Crunch,64,119,Burger
+2024-09-19,Punjabi Paneer,35,109,Burger
+2024-09-19,Veg King Burger,77,99,Burger
+2024-09-19,Paneer Supreme Burger,47,129,Burger
+2024-09-19,Double Crispy Cheese Burger,36,129,Burger
+2024-09-20,Aloo Tikki Burger,39,49,Burger
+2024-09-20,Aloo Tikki Twist,60,69,Burger
+2024-09-20,Veg Makhani,54,79,Burger
+2024-09-20,Crispy Veg Burger,34,99,Burger
+2024-09-20,Veg Chilly Loaded Burger,98,99,Burger
+2024-09-20,Desi Masala Crunch,54,119,Burger
+2024-09-20,Punjabi Paneer,35,109,Burger
+2024-09-20,Veg King Burger,57,99,Burger
+2024-09-20,Paneer Supreme Burger,93,129,Burger
+2024-09-20,Double Crispy Cheese Burger,62,129,Burger
+2024-09-21,Aloo Tikki Burger,53,49,Burger
+2024-09-21,Aloo Tikki Twist,43,69,Burger
+2024-09-21,Veg Makhani,68,79,Burger
+2024-09-21,Crispy Veg Burger,52,99,Burger
+2024-09-21,Veg Chilly Loaded Burger,80,99,Burger
+2024-09-21,Desi Masala Crunch,97,119,Burger
+2024-09-21,Punjabi Paneer,62,109,Burger
+2024-09-21,Veg King Burger,61,99,Burger
+2024-09-21,Paneer Supreme Burger,71,129,Burger
+2024-09-21,Double Crispy Cheese Burger,41,129,Burger
+2024-09-22,Aloo Tikki Burger,23,49,Burger
+2024-09-22,Aloo Tikki Twist,25,69,Burger
+2024-09-22,Veg Makhani,84,79,Burger
+2024-09-22,Crispy Veg Burger,39,99,Burger
+2024-09-22,Veg Chilly Loaded Burger,29,99,Burger
+2024-09-22,Desi Masala Crunch,25,119,Burger
+2024-09-22,Punjabi Paneer,46,109,Burger
+2024-09-22,Veg King Burger,34,99,Burger
+2024-09-22,Paneer Supreme Burger,39,129,Burger
+2024-09-22,Double Crispy Cheese Burger,92,129,Burger
+2024-09-23,Aloo Tikki Burger,36,49,Burger
+2024-09-23,Aloo Tikki Twist,21,69,Burger
+2024-09-23,Veg Makhani,30,79,Burger
+2024-09-23,Crispy Veg Burger,60,99,Burger
+2024-09-23,Veg Chilly Loaded Burger,53,99,Burger
+2024-09-23,Desi Masala Crunch,68,119,Burger
+2024-09-23,Punjabi Paneer,44,109,Burger
+2024-09-23,Veg King Burger,48,99,Burger
+2024-09-23,Paneer Supreme Burger,54,129,Burger
+2024-09-23,Double Crispy Cheese Burger,23,129,Burger
+2024-09-24,Aloo Tikki Burger,43,49,Burger
+2024-09-24,Aloo Tikki Twist,84,69,Burger
+2024-09-24,Veg Makhani,75,79,Burger
+2024-09-24,Crispy Veg Burger,94,99,Burger
+2024-09-24,Veg Chilly Loaded Burger,20,99,Burger
+2024-09-24,Desi Masala Crunch,64,119,Burger
+2024-09-24,Punjabi Paneer,50,109,Burger
+2024-09-24,Veg King Burger,90,99,Burger
+2024-09-24,Paneer Supreme Burger,84,129,Burger
+2024-09-24,Double Crispy Cheese Burger,40,129,Burger
+2024-09-25,Aloo Tikki Burger,35,49,Burger
+2024-09-25,Aloo Tikki Twist,56,69,Burger
+2024-09-25,Veg Makhani,32,79,Burger
+2024-09-25,Crispy Veg Burger,69,99,Burger
+2024-09-25,Veg Chilly Loaded Burger,68,99,Burger
+2024-09-25,Desi Masala Crunch,46,119,Burger
+2024-09-25,Punjabi Paneer,22,109,Burger
+2024-09-25,Veg King Burger,27,99,Burger
+2024-09-25,Paneer Supreme Burger,24,129,Burger
+2024-09-25,Double Crispy Cheese Burger,63,129,Burger
+2024-09-26,Aloo Tikki Burger,47,49,Burger
+2024-09-26,Aloo Tikki Twist,35,69,Burger
+2024-09-26,Veg Makhani,52,79,Burger
+2024-09-26,Crispy Veg Burger,52,99,Burger
+2024-09-26,Veg Chilly Loaded Burger,98,99,Burger
+2024-09-26,Desi Masala Crunch,79,119,Burger
+2024-09-26,Punjabi Paneer,24,109,Burger
+2024-09-26,Veg King Burger,28,99,Burger
+2024-09-26,Paneer Supreme Burger,28,129,Burger
+2024-09-26,Double Crispy Cheese Burger,84,129,Burger
+2024-09-27,Aloo Tikki Burger,27,49,Burger
+2024-09-27,Aloo Tikki Twist,87,69,Burger
+2024-09-27,Veg Makhani,46,79,Burger
+2024-09-27,Crispy Veg Burger,66,99,Burger
+2024-09-27,Veg Chilly Loaded Burger,77,99,Burger
+2024-09-27,Desi Masala Crunch,73,119,Burger
+2024-09-27,Punjabi Paneer,25,109,Burger
+2024-09-27,Veg King Burger,93,99,Burger
+2024-09-27,Paneer Supreme Burger,85,129,Burger
+2024-09-27,Double Crispy Cheese Burger,66,129,Burger
+2024-09-28,Aloo Tikki Burger,84,49,Burger
+2024-09-28,Aloo Tikki Twist,36,69,Burger
+2024-09-28,Veg Makhani,48,79,Burger
+2024-09-28,Crispy Veg Burger,52,99,Burger
+2024-09-28,Veg Chilly Loaded Burger,52,99,Burger
+2024-09-28,Desi Masala Crunch,99,119,Burger
+2024-09-28,Punjabi Paneer,27,109,Burger
+2024-09-28,Veg King Burger,50,99,Burger
+2024-09-28,Paneer Supreme Burger,23,129,Burger
+2024-09-28,Double Crispy Cheese Burger,28,129,Burger
+2024-09-29,Aloo Tikki Burger,28,49,Burger
+2024-09-29,Aloo Tikki Twist,95,69,Burger
+2024-09-29,Veg Makhani,84,79,Burger
+2024-09-29,Crispy Veg Burger,48,99,Burger
+2024-09-29,Veg Chilly Loaded Burger,49,99,Burger
+2024-09-29,Desi Masala Crunch,79,119,Burger
+2024-09-29,Punjabi Paneer,97,109,Burger
+2024-09-29,Veg King Burger,65,99,Burger
+2024-09-29,Paneer Supreme Burger,37,129,Burger
+2024-09-29,Double Crispy Cheese Burger,96,129,Burger
+2024-09-30,Aloo Tikki Burger,43,49,Burger
+2024-09-30,Aloo Tikki Twist,93,69,Burger
+2024-09-30,Veg Makhani,50,79,Burger
+2024-09-30,Crispy Veg Burger,36,99,Burger
+2024-09-30,Veg Chilly Loaded Burger,74,99,Burger
+2024-09-30,Desi Masala Crunch,75,119,Burger
+2024-09-30,Punjabi Paneer,77,109,Burger
+2024-09-30,Veg King Burger,62,99,Burger
+2024-09-30,Paneer Supreme Burger,87,129,Burger
+2024-09-30,Double Crispy Cheese Burger,56,129,Burger
